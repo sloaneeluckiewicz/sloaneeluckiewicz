@@ -3,6 +3,6 @@
 - 📚 I am an IIT student at the University of South Carolina 
 - 💼 I work as an Associate Developer at ROVE, a Presidio Company
 - 🦋 I am comfortable with front-end/UI dev
-- 🐌 I'd like to know more backend
-- 🌱 I’m currently learning Vue 3
+- 🐌 I'd like to become more familiar with backend dev
+- 🌱 I’m currently learning React JS, React Native, and Material UI
 - 😄 Pronouns: She/Her
