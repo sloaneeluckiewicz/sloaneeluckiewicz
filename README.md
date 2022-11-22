@@ -4,5 +4,5 @@
 - 💼 I work as an Associate Developer at ROVE, a Presidio Company
 - 🦋 I am comfortable with front-end/UI dev
 - 🐌 I'd like to become more familiar with backend dev
-- 🌱 I’m currently learning React JS, React Native, Material UI, and d3
+- 🌱 My favorite programming languages are JavaScript & React
 - 😄 Pronouns: She/Her
