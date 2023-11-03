@@ -1,8 +1,7 @@
 ### Hi, my name is Sloane 👾
 
+- 💼 Currently employed as a Project Engineer with 1Path
 - 📚 B.S. in Integrated Information Technology from the University of South Carolina
-- 💼 My most recent job title is associate developer
-- 🦋 I am comfortable with front-end/UI dev
-- 🐌 I am learning more cybersecurity and networking practices
-- 🌱 My favorite programming languages are JavaScript & React
+- 🦋 Passionate about software development and UX design 
+- 🌱 Current obsession: AI engineering
 - 😄 Pronouns: She/Her
